@@ -1,0 +1,40 @@
+.news {
+    border-style: solid;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.newsImage {
+    width: 250px;
+    height: 300px;
+    margin: 10px;
+}
+
+.content{
+    padding-left: 20px;
+}
+
+.title {
+    font-size: 50px;
+}
+
+button {
+    margin-left:10px;
+    font-size: 20px;
+}
+
+input {
+    font-size: 20px;
+}
+
+table {
+    margin-left:60%;
+    margin-top: -24px;
+    font-size: 30px;
+    width: 40%;
+}
+
+td:hover {
+    cursor:pointer;
+    border-style: solid;
+}
